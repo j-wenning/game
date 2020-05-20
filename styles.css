@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+#gameContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: auto;
+}
+
+#gameWindow {
+  border: 5px double black;
+}
